@@ -1,5 +1,14 @@
 # SehirPlakaKoduAppKotlin
 
+Bu projede şehir plaka kodu girerek hangi şehre ait olduğunu görebilirsiniz.
+
+## Bu Proje Neler İçerir:
+
+* [View Binding](https://developer.android.com/topic/libraries/view-binding#kts)
+* [Toast Message](https://developer.android.com/guide/topics/ui/notifiers/toasts)
+
+
+# Projeden Görseller: 
 
 ![sehirplakakodu](https://user-images.githubusercontent.com/80538415/204158893-62f3d5ed-1ded-4afc-b70a-bee0e6a04cde.png)
 
